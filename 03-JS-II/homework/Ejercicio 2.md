@@ -1,0 +1,4 @@
+`for` es un condicional compuesto por 3 elementos claves, primero es la declaracion de la variable que vamos a utilizar en el for, segundo es la condicion de salida es decir el valor que tiene que tomar la variable creada para salir del bucle for y por ultimo, tenemos el incremento de la variable creada.
+`&&` es un operador logico, el cual solo da valor true cuando todos los valores comparados sean true, sino devuelve false.
+`||` operador logico or, este operador devulve true ya sea que uno o todos los valores comprados sean true, y solo devuelve false si todos son false.
+`!` es la negacion de cualquier operador, entoces hace que se comporten de manera contraria.
