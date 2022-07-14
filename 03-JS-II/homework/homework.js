@@ -206,6 +206,8 @@ function esVerdadero(valor){
     }
 }
 while(valor === Boolean);
+
+
 }
 
 function tablaDelSeis(){
