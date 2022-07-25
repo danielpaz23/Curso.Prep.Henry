@@ -1,5 +1,5 @@
-    Objetos
-	* Propiedades
-	* Métodos
-	* Bucle `for…in`
-	* Notación de puntos vs notación de corchetes
+    * Objetos: grupo de propiedades con valores para cada una
+	* Propiedades: es el nombre que utilizamos para guiarnos dentro del objeto y en donde vamos a guardar diferentes variables.
+	* Métodos: es el nombre que recibe una propiedad que contiene una funcion, es decir que es una funcion que esta en un objeto
+	* Bucle `for…in`: como los objetos no tiene un numero de indice como los array se utiliza el for...in para poder recorrer el objeto y ver cada propiedad y su valor.
+	* Notación de puntos vs notación de corchetes: la notacion de puntos es utilizada cuando conocemos el nombre de la propiedad y la notacion de corchetes, se puede usar cuando no sabemos el nombre de la propiedad que nos van a pedir desde la funcion entonces en los corchetes se pone el argumento que esta llegando en la funcion.
